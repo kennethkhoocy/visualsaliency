@@ -1006,3 +1006,6 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
 /volume1/HomeNetwork/Main/VisualSaliency/ MODIFY git-sync_DiskStation_Mar-11-0817-2026_RemoveLocalConflict.log
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/volume1/HomeNetwork/Main/VisualSaliency/ MODIFY git-sync_DiskStation_Mar-11-0817-2026_RemoveLocalConflict.log
